@@ -1,0 +1,10 @@
+.body {
+  margin: 80px;
+  background-color: #009879;
+}
+.form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
